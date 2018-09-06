@@ -26,5 +26,6 @@
 
 |  | DATE | CATEGORY | DESCRIPTION |
 | --- | --- | ------- | --- |
-| 02 | [09-04-18]() | CS Basic | Markdown, Git, Github, 정보의 표현, 컴퓨터 구조 |
-| 01 | [09-03-18]() | CS Basic | 쉘 명령어, 에디터 사용법 |
+| 03 | [09-05-18](./1주차/week01-09-05-18-박윤재-조선규.md) | CS Basic | 컴퓨터 구조, 프로그램, 운영체제 |
+| 02 | 09-04-18 | CS Basic | Markdown, Git, Github, 정보의 표현, 컴퓨터 구조 |
+| 01 | 09-03-18 | CS Basic | 쉘 명령어, 에디터 사용법 |
