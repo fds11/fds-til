@@ -26,6 +26,8 @@
 
 |  | DATE | CATEGORY | DESCRIPTION |
 | --- | --- | ------- | --- |
+| 05 | [09-07-18](./week01-09-07-18-주경-재현.md) | HTML CSS | 콘텐츠 플로우, CSS flex & position, CSS 선택자 |
+| 04 | [09-06-18](./2주차/week01-09-06-18-슬비-지원-재희.md) | HTML CSS | 웹 기초, 웹 표준과 웹 접근성, HTML/CSS 기초 |
 | 03 | [09-05-18](./1주차/week01-09-05-18-박윤재-조선규.md) | CS Basic | 컴퓨터 구조, 프로그램, 운영체제 |
 | 02 | 09-04-18 | CS Basic | Markdown, Git, Github, 정보의 표현, 컴퓨터 구조 |
 | 01 | 09-03-18 | CS Basic | 쉘 명령어, 에디터 사용법 |
